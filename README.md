@@ -1,4 +1,5 @@
-## Ultrapasse seus limites aqui é agora
+## "There is no tomorrow!"
+"Não há amanhã!"
 
 <!--
 **AndreST19/AndreST19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
